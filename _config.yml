@@ -16,7 +16,7 @@ timezone:
 
 title: Jardel # the main title
 
-tagline:   Red team operator and security researcher specializing in malware development, reverse engineering, and detection evasion techniques. # it will display as the subtitle
+tagline:   改善 # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   Red team operator and security researcher specializing in malware development, reverse engineering, and detection evasion techniques by Jardel.
