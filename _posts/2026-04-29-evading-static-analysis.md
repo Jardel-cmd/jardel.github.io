@@ -3,7 +3,7 @@ title: "Hack The Box - Outdated"
 description: 
  A highly detailed and well-documented write-up of the Hack The Box machine ‘Outdated’.
 author: Jardel
-date: 2026-04-30 14:10:00 +0800
+date: 2026-04-27 14:10:00 +0800
 categories: [CTF - Hack The Box]
 tags: ["CTF"]
 render_with_liquid: false
