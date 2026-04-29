@@ -1,18 +1,18 @@
 ---
-title: "Evading Static Analysis"
+title: "Hack The Box - Outdated"
 description: 
- Static binary analysis is a process of examining an executable program without actually running it. I will present how it is performed and how not to get flagged.
-author: Oblivion
-date: 2024-05-18 14:10:00 +0800
-categories: [Malware Development]
-tags: ["Windows"]
+ A highly detailed and well-documented write-up of the Hack The Box machine ‘Outdated’.
+author: Jardel
+date: 2026-04-30 14:10:00 +0800
+categories: [CTF - Hack The Box]
+tags: ["CTF"]
 render_with_liquid: false
 pin: false
 image:
-  path: /commons/j.jpeg
+  path: /commons/outdatedhtb.png
 ---
 
-# Import Address Table (IAT)
+# Foothold
 
 The Import Address Table(IAT), consists of the API imports used within a binary. For instance, in a previous article in this journal, we demonstrated how to detect [Classic Injection](https://oblivion-malware.xyz/posts/classic-injection/). We could already consider it malicious simply by its IAT, as this somewhat reveals its actions, typically used by malware. However, now I will show ways to use WinAPIs while keeping the IAT clean.
 
