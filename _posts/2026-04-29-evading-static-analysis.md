@@ -24,7 +24,7 @@ The target was confirmed to be a Windows Active Directory environment; therefore
 It was observed that an SMB share named Shares was accessible using the default Guest account without a password. This finding warranted further inspection to determine whether any sensitive or interesting files were present.
 
 
-"[img](/commons/smb.png)
+![img](/commons/smb.png)
 
 
 
