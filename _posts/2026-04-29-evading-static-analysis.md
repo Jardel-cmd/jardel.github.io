@@ -14,6 +14,7 @@ image:
 
 # Enum
 During port scan enumeration, several interesting findings were identified, which warranted further investigation. 
+
 The target was confirmed to be a Windows Active Directory environment; therefore, initial enumeration efforts were focused on SMB and LDAP services.
 
 
