@@ -4,8 +4,8 @@ description:
  Exploring and Understanding Shadow Credentials(msDS-KeyCredentialLink)& WSUS Exploitation in Active Directory.
 author: Jardel
 date: 2026-04-27 14:10:00 +0800
-categories: [CTF - Hack The Box]
-tags: ["CTF"]
+categories: [Active Directory]
+tags: ["AD"]
 render_with_liquid: false
 pin: false
 image:
