@@ -1,7 +1,7 @@
 ---
 title: "Hack The Box - Outdated"
 description: 
- A highly detailed and well-documented write-up of the Hack The Box machine ‘Outdated’.
+ Exploring and Understanding Shadow Credentials(msDS-KeyCredentialLink)& WSUS Exploitation in Active Directory.
 author: Jardel
 date: 2026-04-27 14:10:00 +0800
 categories: [CTF - Hack The Box]
