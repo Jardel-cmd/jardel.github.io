@@ -1,5 +1,5 @@
 ---
-title: "Hack The Box - Outdated"
+title: "Shadow Credentials & WSUS Exploitation"
 description: 
  Exploring and Understanding Shadow Credentials(msDS-KeyCredentialLink)& WSUS Exploitation in Active Directory.
 author: Jardel
