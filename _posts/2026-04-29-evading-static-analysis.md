@@ -9,7 +9,7 @@ tags: ["CTF"]
 render_with_liquid: false
 pin: false
 image:
-  path: /commons/outdatedhtb.png
+  path: /commons/_.jpeg
 ---
 
 # Enum
