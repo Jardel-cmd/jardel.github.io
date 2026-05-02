@@ -9,7 +9,7 @@ tags: ["AD"]
 render_with_liquid: false
 pin: false
 image:
-  path: /commons/_.jpeg
+  path: /commons/tree_700x400_enhanced_v2.jpg
 ---
 
 # Enum
